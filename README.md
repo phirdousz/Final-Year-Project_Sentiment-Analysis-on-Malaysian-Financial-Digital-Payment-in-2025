@@ -5,7 +5,7 @@ My final year project. Made some analysis on the sentiment and perception among 
 ## Digital App
 - myASNB
 - Touch 'n Go e-Wallet
-- KWSP i-Akain
+- KWSP i-Akaun
 
 ## Tools 
 - Excel
