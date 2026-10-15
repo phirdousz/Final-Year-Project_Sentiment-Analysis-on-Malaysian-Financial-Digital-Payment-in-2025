@@ -18,3 +18,14 @@ My final year project. Made some analysis on the sentiment and perception among 
 - NLP
 - Latent Dirichlet Allocation (LDA)
 
+## Obtained Result
+
+<!-- Add your screenshots to the /screenshots folder and update the file names below -->
+| Sentiment Distribution|
+|:---:|
+| ASB | KWSP | TnG |
+|:---:|:---:|:---:|
+| ![ASB](Objective 1/Figure_1/asb.png) | ![KWSP]Objective 1/Figure_1/kwsp.png | ![TNG](Objective 1/Figure_1/tng.png) |
+
+---
+
