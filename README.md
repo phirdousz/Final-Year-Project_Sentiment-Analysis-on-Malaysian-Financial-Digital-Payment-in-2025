@@ -71,9 +71,9 @@ My final year project. Made some analysis on the sentiment and perception among 
 
 | Topic 1 | Topic 2 |
 | :---: | :---: |
-| ![TnG Topic 1](Objective%202/TnG%20Word%20Cloud/topic_1_wc_tng.png) | ![TnG Topic 2](Objective%202/TnG%20Word%20Cloud/topic_2_wc_tng.png) |
+| ![TnG Topic 1](Objective%202/TNG%20Word%20Cloud/topic_1_wc_tng.png) | ![TnG Topic 2](Objective%202/TNG%20Word%20Cloud/topic_2_wc_tng.png) |
 | **Topic 3** | **Topic 4** |
-| ![TnG Topic 3](Objective%202/TnG%20Word%20Cloud/topic_3_wc_tng.png) | ![TnG Topic 4](Objective%202/TnG%20Word%20Cloud/topic_4_wc_tng.png) |
+| ![TnG Topic 3](Objective%202/TNG%20Word%20Cloud/topic_3_wc_tng.png) | ![TnG Topic 4](Objective%202/TNG%20Word%20Cloud/topic_4_wc_tng.png) |
 
 ---
 
