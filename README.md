@@ -20,12 +20,21 @@ My final year project. Made some analysis on the sentiment and perception among 
 
 ## Obtained Result
 
-<!-- Add your screenshots to the /screenshots folder and update the file names below -->
-| Sentiment Distribution|
-|:---:|
-| ASB | KWSP | TnG |
-|:---:|:---:|:---:|
-| ![ASB](Objective 1/Figure_1/asb.png) | ![KWSP]Objective 1/Figure_1/kwsp.png | ![TNG](Objective 1/Figure_1/tng.png) |
+<table>
+  <tr>
+    <th colspan="3">Sentiment Distribution</th>
+  </tr>
+  <tr>
+    <th align="center">ASB</th>
+    <th align="center">KWSP</th>
+    <th align="center">TnG</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="Objective 1/Figure_1/asb.png" alt="ASB"></td>
+    <td align="center"><img src="Objective 1/Figure_1/kwsp.png" alt="KWSP"></td>
+    <td align="center"><img src="Objective 1/Figure_1/tng.png" alt="TnG"></td>
+  </tr>
+</table>
 
 ---
 
