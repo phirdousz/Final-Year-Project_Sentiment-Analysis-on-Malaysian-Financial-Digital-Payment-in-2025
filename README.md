@@ -35,6 +35,7 @@ My final year project. Made some analysis on the sentiment and perception among 
     <td align="center"><img src="Objective 1/Figure_1 tng.png" alt="TnG"></td>
   </tr>
 </table>
+
 ---
 
 ## Word Cloud for Each Topics (Using LDA)
