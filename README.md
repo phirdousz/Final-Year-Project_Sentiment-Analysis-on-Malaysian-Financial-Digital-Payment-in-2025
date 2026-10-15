@@ -37,23 +37,23 @@ My final year project. Made some analysis on the sentiment and perception among 
 </table>
 ---
 
-## 📊 Summary of Outputs
+## Word Cloud for Each Topics (Using LDA)
 
 | Entity | Topic Word Clouds | Folder Location |
 | :--- | :---: | :--- |
-| **ASB** (Amanah Saham Bumiputera) | 6 Images | `ASB Word Cloud/` |
-| **KWSP** (Kumpulan Wang Simpanan Pekerja) | 5 Images | `KWSP Word Cloud/` |
-| **TnG** (Touch 'n Go) | 4 Images | `TnG Word Cloud/` |
+| **ASB** (Amanah Saham Bumiputera) | 6 Images | `Objective 2/ASB Word Cloud/` |
+| **KWSP** (Kumpulan Wang Simpanan Pekerja) | 5 Images | `Objective 2/KWSP Word Cloud/` |
+| **TnG** (Touch 'n Go) | 4 Images | `Objective 2/TnG Word Cloud/` |
 
 ---
 
-## 1. ASB Word Clouds (6 Topics) Objective 2/ASB Word Cloud/topic_1_wc_asb.png
+## 1. ASB Word Clouds (6 Topics)
 
 | Topic 1 | Topic 2 | Topic 3 |
 | :---: | :---: | :---: |
-| ![ASB Topic 1](Objective%202/ASB%20Word%20Cloud/topic_1_wc_asb.png) | ![ASB Topic 2](ASB%20Word%20Cloud/topic_2_wc_asb.png) | ![ASB Topic 3](ASB%20Word%20Cloud/topic_3_wc_asb.png) |
+| ![ASB Topic 1](Objective%202/ASB%20Word%20Cloud/topic_1_wc_asb.png) | ![ASB Topic 2](Objective%202/ASB%20Word%20Cloud/topic_2_wc_asb.png) | ![ASB Topic 3](Objective%202/ASB%20Word%20Cloud/topic_3_wc_asb.png) |
 | **Topic 4** | **Topic 5** | **Topic 6** |
-| ![ASB Topic 4](ASB%20Word%20Cloud/topic_4_wc_asb.png) | ![ASB Topic 5](ASB%20Word%20Cloud/topic_5_wc_asb.png) | ![ASB Topic 6](ASB%20Word%20Cloud/topic_6_wc_asb.png) |
+| ![ASB Topic 4](Objective%202/ASB%20Word%20Cloud/topic_4_wc_asb.png) | ![ASB Topic 5](Objective%202/ASB%20Word%20Cloud/topic_5_wc_asb.png) | ![ASB Topic 6](Objective%202/ASB%20Word%20Cloud/topic_6_wc_asb.png) |
 
 ---
 
@@ -61,9 +61,9 @@ My final year project. Made some analysis on the sentiment and perception among 
 
 | Topic 1 | Topic 2 | Topic 3 |
 | :---: | :---: | :---: |
-| ![KWSP Topic 1](KWSP%20Word%20Cloud/topic_1_wc_kwsp.png) | ![KWSP Topic 2](KWSP%20Word%20Cloud/topic_2_wc_kwsp.png) | ![KWSP Topic 3](KWSP%20Word%20Cloud/topic_3_wc_kwsp.png) |
+| ![KWSP Topic 1](Objective%202/KWSP%20Word%20Cloud/topic_1_wc_kwsp.png) | ![KWSP Topic 2](Objective%202/KWSP%20Word%20Cloud/topic_2_wc_kwsp.png) | ![KWSP Topic 3](Objective%202/KWSP%20Word%20Cloud/topic_3_wc_kwsp.png) |
 | **Topic 4** | **Topic 5** | |
-| ![KWSP Topic 4](KWSP%20Word%20Cloud/topic_4_wc_kwsp.png) | ![KWSP Topic 5](KWSP%20Word%20Cloud/topic_5_wc_kwsp.png) | |
+| ![KWSP Topic 4](Objective%202/KWSP%20Word%20Cloud/topic_4_wc_kwsp.png) | ![KWSP Topic 5](Objective%202/KWSP%20Word%20Cloud/topic_5_wc_kwsp.png) | |
 
 ---
 
@@ -71,9 +71,9 @@ My final year project. Made some analysis on the sentiment and perception among 
 
 | Topic 1 | Topic 2 |
 | :---: | :---: |
-| ![TnG Topic 1](TnG%20Word%20Cloud/topic_1_wc_tng.png) | ![TnG Topic 2](TnG%20Word%20Cloud/topic_2_wc_tng.png) |
+| ![TnG Topic 1](Objective%202/TnG%20Word%20Cloud/topic_1_wc_tng.png) | ![TnG Topic 2](Objective%202/TnG%20Word%20Cloud/topic_2_wc_tng.png) |
 | **Topic 3** | **Topic 4** |
-| ![TnG Topic 3](TnG%20Word%20Cloud/topic_3_wc_tng.png) | ![TnG Topic 4](TnG%20Word%20Cloud/topic_4_wc_tng.png) |
+| ![TnG Topic 3](Objective%202/TnG%20Word%20Cloud/topic_3_wc_tng.png) | ![TnG Topic 4](Objective%202/TnG%20Word%20Cloud/topic_4_wc_tng.png) |
 
 ---
 
