@@ -47,11 +47,11 @@ My final year project. Made some analysis on the sentiment and perception among 
 
 ---
 
-## 1. ASB Word Clouds (6 Topics)
+## 1. ASB Word Clouds (6 Topics) Objective 2/ASB Word Cloud/topic_1_wc_asb.png
 
 | Topic 1 | Topic 2 | Topic 3 |
 | :---: | :---: | :---: |
-| ![ASB Topic 1](ASB%20Wor%20Cloud/topic_1_wc_asb.png) | ![ASB Topic 2](ASB%20Word%20Cloud/topic_2_wc_asb.png) | ![ASB Topic 3](ASB%20Word%20Cloud/topic_3_wc_asb.png) |
+| ![ASB Topic 1](Objective%202/ASB%20Wor%20Cloud/topic_1_wc_asb.png) | ![ASB Topic 2](ASB%20Word%20Cloud/topic_2_wc_asb.png) | ![ASB Topic 3](ASB%20Word%20Cloud/topic_3_wc_asb.png) |
 | **Topic 4** | **Topic 5** | **Topic 6** |
 | ![ASB Topic 4](ASB%20Word%20Cloud/topic_4_wc_asb.png) | ![ASB Topic 5](ASB%20Word%20Cloud/topic_5_wc_asb.png) | ![ASB Topic 6](ASB%20Word%20Cloud/topic_6_wc_asb.png) |
 
