@@ -30,9 +30,9 @@ My final year project. Made some analysis on the sentiment and perception among 
     <th align="center">TnG</th>
   </tr>
   <tr>
-    <td align="center"><img src="Objective 1/Figure_1/asb.png" alt="ASB"></td>
-    <td align="center"><img src="Objective 1/Figure_1/kwsp.png" alt="KWSP"></td>
-    <td align="center"><img src="Objective 1/Figure_1/tng.png" alt="TnG"></td>
+    <td align="center"><img src="Objective 1/Figure_1 asb.png" alt="ASB"></td>
+    <td align="center"><img src="Objective 1/Figure_1 kwsp.png" alt="KWSP"></td>
+    <td align="center"><img src="Objective 1/Figure_1 tng.png" alt="TnG"></td>
   </tr>
 </table>
 
